@@ -1,6 +1,6 @@
-gevent==1.0.1
 greenlet==0.4.5
 pika==0.9.14
 Pika-Pack==1.0.4
 pyecho==0.0.2
 pymongo==2.8
+python-gcm==0.1.5
